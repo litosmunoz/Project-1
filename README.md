@@ -1,6 +1,7 @@
 # 1st Project for Ironhack Data Analytics Bootcamp
 
 <img src="images/Other/Readme Photo.webp" width="1440" height="600">
+
 ### Description
 This is a project that involves __cleaning and organizing data__. The project's goal is to analyze, clean, sort, and present the data in a way that demonstrates the validity or otherwise of a particular theory. The shark attack dataset was taken from Kaggle (the link can be found further down).
 
@@ -15,6 +16,7 @@ Fatality rate has decreased over the last 50 years in the USA.
 Read the dataframe, make a copy and remove duplicates.
 
 __H1:__
+
 __Data Cleaning__ 
 - Select variables and create a dataframe which we are going to use for evaluating the Hypothesis __(Age, Sex, Species).__
 - Drop nulls and reset index.
@@ -34,10 +36,12 @@ __Data Visualization__
 - __Graph 4__ - Boxplot to display the distribution and weight per age between sexes.
 
 __Conclusion__
+
 *Reflect on Hypothesis 1*
 - __Men tend to be the sex most often attacked by white sharks, following a sort of normal distribution (as seen in Graphs 2 and 3), with most attacks occurring on men between 20 and 40 years of age. This result could be explained by the fact that this age and sex group is the most active and, therefore, the most likely to be attacked by white sharks.__
 
 __H2:__
+
 __Data Cleaning__
 - Select variables and create a dataframe which we are going to use for evaluating the Hypothesis __(ID, Year, Date, Country, Fatal).__
 - Drop nulls, take a look at the shape of the dataframe.
@@ -59,6 +63,7 @@ __Data Visualization__
 - __Graph 7__ - Number of people that died or survived due to attacks of sharks in the USA.
 
 __Conclusion__
+
 *Reflect on Hypothesis 2*
 - __Fatality rate has decreased in the USA over the last 50 years as shown in Graph_5. We can see that the number of attacks have increased (Graph_7) but this may be due to lack of sufficient information from previous decades. The overall conclusion is that although attacks seem to have increased within the last decades, the % people that die due to these attacks, has been reduced.__
 
