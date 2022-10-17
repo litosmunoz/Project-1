@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #Put the dataset
-../data/attacks.csv
+data/attacks.csv
