@@ -31,12 +31,12 @@ __Data Cleaning__
 
 __Data Visualization__
 - Set predetermined configurations for graphs.
-- __Graph 1__ - Display and plot attacks by sex and count victims.
+- Graph 1 - Display and plot attacks by sex and count victims.
 <img src="images/Hypothesis 1/Graph_1.png" width="1600" height="600">
-- **Graphs 2 & 3** - Display attacks by age group and differentiate by victim's sex.
+- Graphs 2 & 3 - Display attacks by age group and differentiate by victim's sex.
 <img src="images/Hypothesis 1/Graph_2.png" width="1600" height="600">
 <img src="images/Hypothesis 1/Graph_3.png" width="1600" height="600">
-- **Graph 4** - Boxplot to display the distribution and weight per age between sexes.
+- Graph 4 - Boxplot to display the distribution and weight per age between sexes.
 <img src="images/Hypothesis 1/Graph_4.png" width="1600" height="600">
 
 __Conclusion__
@@ -63,11 +63,11 @@ __Data Visualization__
 - Dynamic table to see per year, the number of fatalities and the number of people that survived.
 - We create two new columns, total (nº fatalities + nº of people that survived) and one for the % of fatalities respect to the total.
 
-- __Graph 5__ - Evolution of Fatality rate in the USA.
+- Graph 5 - Evolution of Fatality rate in the USA.
 <img src="images/Hypothesis 2/Graph_5.png" width="2000" height="600">
-- **Graph 6** - Percentage of people that survive to attacks in the USA. 
+- Graph 6 - Density of people that survive to attacks in the USA. 
 <img src="images/Hypothesis 2/Graph_6.png" width="2000" height="600">
-- **Graph 7** - Number of people that died or survived due to attacks of sharks in the USA.
+- Graph 7 - Number of people that died or survived due to attacks of sharks in the USA.
 <img src="images/Hypothesis 2/Graph_7.png" width="1600" height="600">
 
 __Conclusion__
